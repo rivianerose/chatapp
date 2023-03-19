@@ -1,0 +1,48 @@
+[debug] [2023-03-16T21:56:01.117Z] ----------------------------------------------------------------------
+[debug] [2023-03-16T21:56:01.119Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Riviane\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-03-16T21:56:01.120Z] CLI Version:   11.24.1
+[debug] [2023-03-16T21:56:01.120Z] Platform:      win32
+[debug] [2023-03-16T21:56:01.120Z] Node Version:  v18.12.1
+[debug] [2023-03-16T21:56:01.121Z] Time:          Thu Mar 16 2023 18:56:01 GMT-0300 (Horário Padrão de Brasília)
+[debug] [2023-03-16T21:56:01.121Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-03-16T21:56:01.125Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2023-03-16T21:56:01.174Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-03-16T21:56:01.175Z] > authorizing via signed-in user (babydeeh1@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Riviane\Desktop\chatapp\mychat\src
+
+[debug] [2023-03-16T21:56:01.777Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2023-03-16T21:56:01.778Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
+[debug] [2023-03-18T23:14:48.416Z] ----------------------------------------------------------------------
+[debug] [2023-03-18T23:14:48.418Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Riviane\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-03-18T23:14:48.418Z] CLI Version:   11.24.1
+[debug] [2023-03-18T23:14:48.419Z] Platform:      win32
+[debug] [2023-03-18T23:14:48.419Z] Node Version:  v18.12.1
+[debug] [2023-03-18T23:14:48.420Z] Time:          Sat Mar 18 2023 20:14:48 GMT-0300 (Horário Padrão de Brasília)
+[debug] [2023-03-18T23:14:48.420Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-03-18T23:14:48.424Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2023-03-18T23:14:48.474Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-03-18T23:14:48.475Z] > authorizing via signed-in user (babydeeh1@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Riviane\Desktop\chatapp\mychat\src
+
+[debug] [2023-03-18T23:14:48.968Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2023-03-18T23:14:48.969Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
